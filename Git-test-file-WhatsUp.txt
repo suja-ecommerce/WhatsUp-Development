@@ -1,0 +1,5 @@
+Verson control – see the history of launched versions 
+ 		See the code changes 
+Github
+Web based Git repository hosting service 
+Alternatives of BitBucket/ Gitbucket 
