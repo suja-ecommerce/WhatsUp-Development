@@ -3,6 +3,7 @@ Verson control – see the history of launched versions
 Github
 Web based Git repository hosting service 
 Alternatives of BitBucket/ Gitbucket 
+Attachment-audio, video, image and document
 Hiding last seen updates 
 Hiding last seen  
 Added Audio calls feature 
