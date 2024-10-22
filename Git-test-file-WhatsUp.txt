@@ -3,3 +3,4 @@ Verson control – see the history of launched versions
 Github
 Web based Git repository hosting service 
 Alternatives of BitBucket/ Gitbucket 
+Hiding last seen updates 
