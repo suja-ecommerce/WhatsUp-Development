@@ -1,0 +1,17 @@
+# demo - whatsUP development with new pipline 
+
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+stages: 
+  - stage: 'Junit'
+    displayName: 'Junit stage'
+    jobs:
+        - job: 'JunitTest'
+          displayName: 'Running Unit Test'
+          steps:
+              - script: echo 'Running WhatsUp Development Demo'
+              - task: ApacheJMeterLoadTest@1
